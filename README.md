@@ -15,6 +15,7 @@ The repository includes Kaggle notebooks that:
 - Fit and evaluate various classification models, including:
   - Deep Neural Networks (DNNs)
   - Random Forests
+  - Gradient boosted trees
 
 ---
 
